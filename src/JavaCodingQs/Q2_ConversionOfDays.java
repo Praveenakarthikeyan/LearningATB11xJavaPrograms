@@ -15,7 +15,7 @@ public class Q2_ConversionOfDays {
         int days=totalDays%30;
         System.out.println(years + " years, " + months + " months, and " + days + " days.");
 
-
+sc.close();
 
     }
 }
